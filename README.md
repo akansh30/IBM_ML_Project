@@ -26,12 +26,6 @@ This repository contains code and resources for a temperature anomaly detection 
     ├── .gitignore                    # Specifies files and directories to ignore
     ├── README.md                     # This file
 ```
-## MoodSensor Screenshots
-![Screenshot 2024-09-22 183038](https://github.com/user-attachments/assets/cfa5298d-63af-4b95-b601-531ddb60a9a1)
-![Screenshot 2024-09-22 183152](https://github.com/user-attachments/assets/ecafe4cc-2439-49ea-bf91-883323ec081f)
-![Screenshot 2024-09-22 183217](https://github.com/user-attachments/assets/ae8e141a-5066-4f93-bdd0-110a8b4fd0f0)
-
-## Setup Instructions
 
 ### 1. Clone the Repository
 
